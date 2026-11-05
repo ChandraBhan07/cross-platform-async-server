@@ -1,0 +1,7 @@
+.obsidian/
+.vscode/
+.vs/
+build*/
+.DS_Store
+Thumbs.db
+Desktop.ini
